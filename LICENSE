@@ -1,61 +1,16 @@
-Custom License for Jinghang Dictionary / 景行词库
-Copyright (c) 2025 Jinghang Dictionary
-
-----------------------------------------------------------------------
-English Version
-----------------------------------------------------------------------
-
-Permission is hereby granted to any person to use, copy, and redistribute
-the contents of this work (including .txt files, data files, and related
-archives) under the following conditions:
-
-Usage Rules:
-1. ✅ Free use: You may use this work for personal purposes or for
-   commercial purposes **that do not involve selling the dictionary itself**.
-2. ✅ Copying and redistribution: You may freely copy and share the
-   original files.
-3. ❌ No modification of the original files: You may NOT modify, alter, or
-   redistribute the original files as if they were the official dataset.
-4. ✅ Creating derived works or variants: You may create custom versions or
-   derivative datasets, under the following conditions:
-   - Your version must be clearly labeled as a "variant", "modified dataset",
-     or "derived work".
-   - You may indicate the source using neutral statements such as:
-        “Based on Jinghang Dictionary” or “Derived from 景行词库”
-   - You may NOT claim your version as the original or official work.
-5. ❌ No commercial use for profit: Selling the dictionary or any direct
-   commercial exploitation is prohibited.
-6. ⚠ Retain copyright notice: Any redistribution of the original files must
-   retain this copyright and license information.
-
-Disclaimer:
-This work is freely provided by the author on a voluntary basis. It is
-provided "as is", without any warranty, express or implied.  
-The author **Jinghang Dictionary** shall not be liable for any damages or
-losses resulting from the use of this work.
-
-----------------------------------------------------------------------
-中文版本（对照）
-----------------------------------------------------------------------
-
-Custom License / 景行词库自定义许可协议
+景行词库自定义许可协议
 
 使用规则：
 1. ✅ 免费使用：可以个人或**非出售性质的商业用途**使用本内容。
 2. ✅ 复制与分发：可以自由复制和分享原始文件。
 3. ❌ 禁止修改原版：原始文件不可修改、改写或冒充原版。
-4. ✅ 允许参考制作变体：可以基于内容制作自定义版本或衍生数据，但必须遵守：
-   - 必须标注为“变体 / 修改版 / 衍生整理版”。
-   - 可以注明来源，例如：
-     > “基于 Jinghang Dictionary 制作” 或 “衍生自景行词库”
-   - 不得声称为原版或官方版本。
-5. ❌ 禁止商业盈利用途：任何形式出售词库性质的商业使用均不允许。
-6. ⚠ 保留版权声明：分发原始文件时必须保留版权声明及本许可协议。
+4. ✅ 允许参考制作变体：可以基于内容制作自定义版本或衍生数据，需要遵守以下规范要求：
+   - 必须标注为“修改版 / 衍生整理版”。等明确表示非原版内容相关描述
+   - 建议注明来源，例如：
+     > “基于景行词库制作” 或 “衍生自景行词库”
+   - 不得声称为作者发布的原版或官方版本。
+5. ⚠️ 商业盈利用途：在原则上不允许进行出售、倒卖词库商业盈利用途。如果您确实因此获得金钱利益，本项目不会追究您的责任。出于公益、开放的原则和避免不必要的争议、法律风险，该行为属于您个人的行为须由您自行承担所有风险和后果，在此明确声明因此导致的任何后果与本项目无关。
+6. ⚠️ 保留版权声明：分发原始文件时建议保留版权声明及本许可协议，或者复制相关声明内容。
 
-免责声明：
-本项目内容可自由使用，由作者志愿提供，不附带任何明示或暗示保证。  
-作者 **Jinghang Dictionary** 对因使用本内容产生的任何损失不承担任何责任。
-
-----------------------------------------------------------------------
-
-End of License
+免责声明
+本项目内容可自由使用并由项目作者志愿提供，不附带任何明示或暗示的任何保证。请自行妥善处理数据的正确使用和管理，对因使用本项目内容导致的任何损失不承担任何责任。
